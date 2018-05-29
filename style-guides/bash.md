@@ -137,7 +137,6 @@ documentation as well.
 ```bash
 if ! type jq &>/dev/null; then
 	err "Missing required command 'jq'."
-	err usage
 	exit 1
 fi
 ```

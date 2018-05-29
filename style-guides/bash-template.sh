@@ -9,18 +9,31 @@ err() {
 }
 
 usage() {
-    echo "Usage: ./$(basename ${0}) name"
+    echo "Usage: ./$(basename ${0}) arg"
 }
 
 # Init
 
-name="${1-}"
-if [[ -z ${name} ]]; then
-    err "Missing argument 'name'."
-    err usage
+if ! type jq &>/dev/null; then
+	err "Missing required binary 'jq'."
+    err "$(usage)"
+	exit 1
+fi
+
+var="${ENV_VAR-}"
+if [[ -z ${var} ]]; then
+    err "Environment variable 'ENV_VAR' not set."
+    err "$(usage)"
+    exit 1
+fi
+
+arg="${1-}"
+if [[ -z ${arg} ]]; then
+    err "Missing argument 'arg'."
+    err "$(usage)"
     exit 1
 fi
 
 # Main
 
-echo "${name}"
+echo "${arg}"
