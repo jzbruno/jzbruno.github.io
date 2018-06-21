@@ -150,7 +150,7 @@ they behave. Some of the features are:
 - Support for regular expression matching.
 - Operators are similar to other programming languages and more familiar.
 - Support for the negation operator *!*.
-- Support for conditional evaluation *||* and *&&*.
+- Support for conditional evaluation *\||* and *&&*.
 
 > Note that this is not portable but I generally only care about Bash and do not attempt to run my
 scripts with other shells.
