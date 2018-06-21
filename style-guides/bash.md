@@ -11,6 +11,7 @@ This guide borrows heavily from
 
 - [Unofficial Bash Strict Mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 - [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml)
+- [BashFAQ](http://mywiki.wooledge.org/BashFAQ)
 
 ### Consistency where reasonable
 
@@ -50,7 +51,7 @@ Use of */bin/bash*, */usr/bin/bash*, */bin/sh* or similar references a specific 
 This requires Bash to be installed in a specific location and isn't as portable, especially for 
 running scripts in Docker containers.
 
-Use */usr/bin/env* to search the user's path for the first occurence of Bash.
+Use */usr/bin/env* to search the user's path for the first occurrence of Bash.
 
 ```bash
 #!/usr/bin/env bash
@@ -141,13 +142,37 @@ if ! type jq &>/dev/null; then
 fi
 ```
 
-### Use [[ ]]
+### Use double square brackets in if statements *[[ ]]*
 
-### Use $( )
+Double square brackets should be used over single square brackets due to fewer surprises in how 
+they behave. Some of the features are:
 
-### Use ${ } variable references
+- Support for regular expression matching.
+- Operators are similar to other programming languages and more familiar.
+- Support for the negation operator *!*.
+- Support for conditional evaluation *||* and *&&*.
 
-### Use "" around all variable references
+> Note that this is not portable but I generally only care about Bash and do not attempt to run my
+scripts with other shells.
+
+### Use parenthesis for command substitution *$( )*
+
+The parenthesis *$( )* form of command substitution should be used over the backtick form *\`` ``*.
+This is also due to fewer surprises in how it behaves. Some of the features are:
+
+- Nested quoting is cleaner.
+- Nested command substitution is cleaner.
+
+### Use *$var* variable references over *${var}*
+
+This is just a personal preference but should be used consistently. Seems cleaner to reference
+variables without brackets unless necessary, and it isn't necessary often.
+
+### Use double quotes around all variable references *""*
+
+Any variable that can contain whitespace should be quoted to avoid unintended splitting of the 
+value. It is usually safer to just quote all variables that shouldn't be split to avoid unintended
+behavior.
 
 ### Send error messages to stderr
 
@@ -174,4 +199,3 @@ exit 1
 ### Template
 
 [style-guides/bash-template.sh](https://github.com/jzbruno/jzbruno.github.io/blob/master/style-guides/bash-template.sh)
-
