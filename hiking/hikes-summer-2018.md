@@ -55,21 +55,21 @@ I think the directions below are a little off. I don't remember it taking that l
 
 ## Checklist
 
-This is a list of supplies and equipment for the hike. Only one person needs to bring the items marked with a - . I will bring them but feel free to bring your own too.
+This is a list of supplies and equipment for the hike. Only one person needs to bring the items marked with a check. I will bring them but feel free to bring your own too.
 
 - [ ] Backpack
-- [-] Sunblock
+- [ ] Sunblock (one person)
 - [ ] Sun glasses
 - [ ] Hat
 - [ ] Gloves
 - [ ] Jacket / Fleece
 - [ ] Hiking shoes
-- [-] Map
-- [-] Compass
-- [-] Knife
-- [-] Flashlight
-- [-] First aid kit
-- [-] Matches
+- [ ] Map (one person)
+- [ ] Compass (one person)
+- [ ] Knife (one person)
+- [ ] Flashlight (one person)
+- [ ] First aid kit (one person)
+- [ ] Matches (one person)
 - [ ] Water (min 2 liter per person)
 - [ ] Snacks (granola bars, trail mix, jerky, etc)
 
