@@ -13,6 +13,8 @@ This guide borrows heavily from
 - [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 - [BashFAQ](http://mywiki.wooledge.org/BashFAQ)
 
+A useful tool to lint your Bash scripts is [ShellCheck](https://github.com/koalaman/shellcheck).
+
 ### Consistency where reasonable
 
 The following styles are largely a matter of personal taste. In each case choose one for the
