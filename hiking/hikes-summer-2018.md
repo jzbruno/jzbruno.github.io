@@ -13,7 +13,7 @@ Main sources of info:
 - [14ers.com](https://www.14ers.com/)
 - [alltrails.com](https://www.alltrails.com/)
 
-### Quandry Peak
+### Quandary Peak
 
 Near Breckenridge, 2 hr drive from my apt. Hike is a 6.75 mi easy hike. Should leave my apt by 5 am. Should be on the trail by 7:30 am.
 
