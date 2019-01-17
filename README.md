@@ -1,5 +1,9 @@
 # jzbruno.github.io
 
+## About Me
+
+- [Resume](resume.md)
+
 ## Style Guides
 
 - [Bash Style Guide](style-guides/bash.md) A Bash style guide I try to follow to make my Bash 
