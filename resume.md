@@ -1,8 +1,8 @@
 # Jack Bruno
 
-> jzbruno@gmail.com
-> 1 720 441 2734
-> https://github.com/jzbruno
+jzbruno@gmail.com  
+1 720 441 2734  
+https://github.com/jzbruno  
 
 ## Summary
 
