@@ -1,14 +1,8 @@
 # Jack Z. Bruno
 
-<<<<<<< HEAD
 Email: *<jzbruno@gmail.com>*
 LinkedIn: *[jzbruno](https://www.linkedin.com/in/jzbruno)*
 GitHub: *[jzbruno](https://github.com/jzbruno)*
-=======
-jzbruno@gmail.com  
-1 720 441 2734  
-https://github.com/jzbruno  
->>>>>>> 40e1fefcf799bd0f8e4fc306b30e41ea5c9514ec
 
 ## Summary
 
