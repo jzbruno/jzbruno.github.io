@@ -2,7 +2,7 @@
 
 ## About Me
 
-- [Resume](resume.md)
+- [Resume](resume.pdf)
 
 ## Style Guides
 
