@@ -2,7 +2,7 @@
 
 ## About Me
 
-- [Resume](resume.pdf)
+- Resume [pdf](resume.pdf) [docx](resume.docx) [md](resume.md)
 
 ## Style Guides
 
@@ -13,3 +13,4 @@ scripts easier to create, update, and debug.
 
 - [Technical Phone Interview](notes/technical-phone-interview.md) Some thoughts on giving a 
 technical phone interview.
+- [Technical Interview Questions](https://github.com/jzbruno/interview) Technical interview questions to demonstrate knowledge of a programming language.
