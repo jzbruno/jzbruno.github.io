@@ -4,11 +4,17 @@ Email: *<jzbruno@gmail.com>* LinkedIn: *[jzbruno](https://www.linkedin.com/in/jz
 
 ## Summary
 
-A detail-oriented software engineer with over ten years of experience combining development and operations experience to deliver reliable, scalable, and maintainable solutions. Maintains a deep and current understanding of industry standards through an enthusiasm for all things technology. Always looking for opportunities to work with companies that are making a positive impact in the world through social justice, environmental improvement or community activism.
+A detail-oriented software engineer with over ten years of experience combining development and operations experience to deliver reliable, scalable, and maintainable solutions. Maintains a deep and current understanding of industry standards through an enthusiasm for all things technology. Always looking for opportunities to work with companies that are making a positive impact in the world and their community. 
 
 ## Experience
 
-**Lead Applications Developer** at Charter Communications *Mar. 2019 - Present*
+**Principal Engineer I** at Charter Communications *Mar. 2021 - Present*
+
+Worked with architecture and development teams to design, plan, and implement service mesh and observability to enable development and operations teams to deploy applications faster and more reliably. 
+
+Member of several community of practice groups that help create company-wide standards for software delivery. Contributed to the creation and review of policies and standards. 
+
+**Lead Applications Developer** at Charter Communications *Mar. 2019 - Mar. 2021*
 
 Lead a team of 12 engineers tasked with maintaining a container platform composed of 14 products that enabled development and operations teams at Charter to effectively transition from VM-based to container-based deployments. The next generation of container platform tools helped standardize deployments and implement advanced processes like canary deployment and completely automated CI/CD.
 
