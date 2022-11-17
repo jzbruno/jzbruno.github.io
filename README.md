@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Resume [pdf](resume.pdf) [docx](resume.docx) [md](resume.md)
+- Resume [pdf](./resume.pdf) [docx](./resume.docx) [md](./resume.md)
 
 ## Style Guides
 
