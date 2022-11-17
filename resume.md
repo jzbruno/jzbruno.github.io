@@ -3,12 +3,10 @@
 Email: *<jzbruno@gmail.com>* LinkedIn: *[jzbruno](https://www.linkedin.com/in/jzbruno)* GitHub: *[jzbruno](https://github.com/jzbruno)*
 
 ## Summary
----
 
 A detail-oriented software engineer with over ten years of experience combining development and operations experience to deliver reliable, scalable, and maintainable solutions. Maintains a deep and current understanding of industry standards through an enthusiasm for all things technology. Always looking for opportunities to work with companies that are making a positive impact in the world through social justice, environmental improvement or community activism.
 
 ## Experience
----
 
 **Lead Applications Developer** at Charter Communications *Mar. 2019 - Present*
 
@@ -73,13 +71,10 @@ Implemented and maintained application monitoring providing visibility into fail
 Consulted on a project involving projectile physics. Worked with ballistics designed and built apparatus to collect data worked with video and still cameras and performed video editing. Completed analysis on collected data.
 
 ## Certifications
----
 
 **AWS Certified Solutions Architect - Associate** *Nov. 2007 - Present*
 
 ## Education
----
 
 **B.S. Physics** at University of Colorado Denver *2005 - 2007*
-
 **Computer Science Major** at University of Colorado Boulder *2001 - 2004*
